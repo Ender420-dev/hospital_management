@@ -27,10 +27,9 @@ session_start();
                 <div class=" d-flex flex-column align-items-center align-items-sm-start px-3 pt-2 text-white min-vh-100" style=" background: #4A628A ;">
                     <a href="#!" class="d-flex text-decoration-none align-items-center mb-md-0 text-white text-decoration-none">
                         <!-- Group  -->
-                   <div class="media">
-                   <img src="logo.png"  class="mr-3" alt="">
-                   <h3></h3>
-                   </div>
+                        <span class="fs-5 d-none  d-sm-inline" style=" color: white ;"> <div class="media align-items-center">
+                        <img src="logo.png" width="100"  class="mr-3" alt="">
+                        </div>  <h3>Hospital Management</h3></span>
                 </a>
                 <ul class="nav nav-link flex-column mb-sm-auto mb-0 align-items-center align-items-sm-center" id="menu" style=" color: white ;">
 
